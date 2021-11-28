@@ -1,1 +1,1 @@
-hhhh
+print("hhhhh")
